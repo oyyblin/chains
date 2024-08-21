@@ -5,7 +5,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Gravity",
-    "symbol": "G.",
+    "symbol": "G",
     "decimals": 18
   },
   "features": [
@@ -19,6 +19,11 @@
   "networkId": 1625,
   "icon": "gravity",
   "explorers": [
+    {
+      "name": "gscan",
+      "url": "https://gscan.xyz",
+      "standard": "EIP3091"
+    },
     {
       "name": "Gravity Alpha Mainnet Explorer",
       "url": "https://explorer.gravity.xyz",
