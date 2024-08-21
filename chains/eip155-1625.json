@@ -20,13 +20,13 @@
   "icon": "gravity",
   "explorers": [
     {
-      "name": "gscan",
-      "url": "https://gscan.xyz",
+      "name": "Gravity Alpha Mainnet Explorer",
+      "url": "https://explorer.gravity.xyz",
       "standard": "EIP3091"
     },
     {
-      "name": "Gravity Alpha Mainnet Explorer",
-      "url": "https://explorer.gravity.xyz",
+      "name": "gscan",
+      "url": "https://gscan.xyz",
       "standard": "EIP3091"
     }
   ],
