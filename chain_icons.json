@@ -2007,6 +2007,14 @@
     "format": "png"
   }]
 }, {
+  "name": "minato",
+  "icons": [{
+    "url": "ipfs://bafybeighhofhlz3qi5yv6ukqw6gthkuedhmgs5xcej4iibwan4dnvghnvi",
+    "width": 301,
+    "height": 300,
+    "format": "svg"
+  }]
+}, {
   "name": "autonity",
   "icons": [{
     "url": "ipfs://Qme5nxFZZoNNpiT8u9WwcBot4HyLTg2jxMxRnsbc5voQwB",
@@ -2631,6 +2639,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "tch",
+  "icons": [{
+    "url": "ipfs://QmPvXht4fY5AigcLbC9ZqycN11K3iqjRTMGynfTtM9gYX5",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  }]
+}, {
   "name": "metadap",
   "icons": [{
     "url": "ipfs://QmcCFUTStKKJKfzTwrjfMFoVaPCMsvAvWXRdDkYMvCkEs3",
@@ -2839,6 +2855,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "uxer",
+  "icons": [{
+    "url": "ipfs://QmQurJBRScSDar6oDJ4pAeKKvzHr49KJfS1iuCkbtiNe4x",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "dotblox",
   "icons": [{
     "url": "ipfs://QmZy2TMY881ghRxXJA7VyRA8Zhj2LJJ86DpHRZs3VQZqoJ",
@@ -3005,6 +3029,14 @@
     "width": 225,
     "height": 225,
     "format": "png"
+  }]
+}, {
+  "name": "esync",
+  "icons": [{
+    "url": "ipfs://QmVo6h7hQcduywA4j5n5vzB75y2PiVaSN4HuNwgB5XiBsj",
+    "width": 297,
+    "height": 70,
+    "format": "svg"
   }]
 }, {
   "name": "nativ3",
@@ -4455,6 +4487,14 @@
     "format": "png"
   }]
 }, {
+  "name": "co2e",
+  "icons": [{
+    "url": "ipfs://Qmdcs7BTuVPjMxfQjfcWdzVeRiXwhzRtRj637pyGRbT9ff",
+    "width": 2400,
+    "height": 2400,
+    "format": "png"
+  }]
+}, {
   "name": "dchain",
   "icons": [{
     "url": "ipfs://QmV2vhTqS9UyrX9Q6BSCbK4JrKBnS8ErHvstMjfb2oVWaj",
@@ -5199,6 +5239,14 @@
     "format": "png"
   }]
 }, {
+  "name": "tron",
+  "icons": [{
+    "url": "ipfs://QmZCR3JnesjwLKRXtW8Vm9sJ4geEnXcAfQsARcv2NVpHSU",
+    "width": 1024,
+    "height": 1024,
+    "format": "png"
+  }]
+}, {
   "name": "any",
   "icons": [{
     "url": "ipfs://QmaARJiAQUn4Z6wG8GLEry3kTeBB3k6RfHzSZU9SPhBgcG",
@@ -5759,6 +5807,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lestnet",
+  "icons": [{
+    "url": "ipfs://bafkreigg4ovuohje6iva42fou7rc7a6fkozvfkg22fhuvhw5oz7vii74ha",
+    "width": 280,
+    "height": 280,
+    "format": "svg"
+  }]
+}, {
   "name": "zilliqa",
   "icons": [{
     "url": "ipfs://QmTREXNgGtUhSoxFsrkhTe5LUnDBTKL5byaX8kpET6UuKp",
@@ -5991,6 +6047,14 @@
     "format": "png"
   }]
 }, {
+  "name": "laika",
+  "icons": [{
+    "url": "ipfs://QmTMbwvGznhMwxWbX28FWtj4Me8ayGQjUQG7zrXPCJzLTa",
+    "width": 513,
+    "height": 513,
+    "format": "png"
+  }]
+}, {
   "name": "krest",
   "icons": [{
     "url": "ipfs://bafkreid732273ib5at7krjdl2t7lteljlepwd3tvifqge7mu7g6naxavhe",
@@ -6220,6 +6284,14 @@
     "url": "ipfs://QmfP6GDn5eXFcpWuoiyWn5pjn6PYB7HQhRD8nSko1zR8KD",
     "width": 1200,
     "height": 1200,
+    "format": "png"
+  }]
+}, {
+  "name": "litentry",
+  "icons": [{
+    "url": "ipfs://QmPYr4SiYqPr5jwt7XS4xc3XcB3yEVibDp2UXZdxukHAg6",
+    "width": 614,
+    "height": 614,
     "format": "png"
   }]
 }, {
