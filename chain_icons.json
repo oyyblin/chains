@@ -407,6 +407,14 @@
     "format": "png"
   }]
 }, {
+  "name": "duckchain",
+  "icons": [{
+    "url": "ipfs://QmTJwaQcF6widssKvbNgdM4AVaddiTqFM2j4n6x17Sp3FL",
+    "width": 1042,
+    "height": 1042,
+    "format": "png"
+  }]
+}, {
   "name": "maal",
   "icons": [{
     "url": "ipfs://bafkreiexfqfe2x4impvwhra3xxa5eb25gv25zi3kkaoatdnld7wbxdzf2a",
@@ -804,6 +812,14 @@
     "url": "ipfs://QmU9KU1qgReJR7vyVxN5zwWB3nkhSs658ViArUjT7GCh4r",
     "width": 2000,
     "height": 2000,
+    "format": "png"
+  }]
+}, {
+  "name": "overIcon",
+  "icons": [{
+    "url": "ipfs://QmcxyEjW9G8K9JP6rZGjRmjJuS9BvgMwzL5dKM1nV2aPLs",
+    "width": 600,
+    "height": 600,
     "format": "png"
   }]
 }, {
@@ -2935,6 +2951,14 @@
     "format": "png"
   }]
 }, {
+  "name": "zchain",
+  "icons": [{
+    "url": "ipfs://QmWMbLpzmFCSpgWaXKiazwSyaPQ6qKSboHpko4g4HBZbZm",
+    "width": 640,
+    "height": 640,
+    "format": "png"
+  }]
+}, {
   "name": "shidoChain",
   "icons": [{
     "url": "ipfs://bafkreiatrf5pp7ywvrwvsv4otrex73u6v6bvhorqkxiop2hy2i572zjrba",
@@ -2946,6 +2970,14 @@
   "name": "lavita",
   "icons": [{
     "url": "ipfs://QmfHbWCxwSjf8qmg4yw8jySHZijRXTPW8f5xd2T5sjbeCY",
+    "width": 1024,
+    "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "divc",
+  "icons": [{
+    "url": "ipfs://QmebuyvTmRvM66rXbxSFtZv7VGj1HtvNQ68hvYpLEPe3bA",
     "width": 1024,
     "height": 1024,
     "format": "png"
@@ -3092,6 +3124,14 @@
     "url": "ipfs://QmcRVHdG7Sr1f26DhkBwE1YuwFZXFjNth5S3TookXoyFaq",
     "width": 360,
     "height": 360,
+    "format": "png"
+  }]
+}, {
+  "name": "erbie",
+  "icons": [{
+    "url": "ipfs://QmfS33Wd4e5pwq4JpNeK3wV1tbPDTakFA6KLxjewHp553z",
+    "width": 163,
+    "height": 159,
     "format": "png"
   }]
 }, {
@@ -3340,6 +3380,14 @@
     "url": "ipfs://QmWAU39z1kcYshAqkENRH8qUjfR5CJehCxA4GiC33p3HpH",
     "width": 800,
     "height": 800,
+    "format": "png"
+  }]
+}, {
+  "name": "highOctane",
+  "icons": [{
+    "url": "ipfs://bafkreibmj6pnsiybggr3koh5hbl2saungutcwbxme6pehteg5kzpzleubu",
+    "width": 331,
+    "height": 331,
     "format": "png"
   }]
 }, {

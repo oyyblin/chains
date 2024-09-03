@@ -1756,11 +1756,11 @@
 }, {
   "name": "Polygon Mainnet",
   "chainId": 137,
-  "shortName": "matic",
+  "shortName": "pol",
   "networkId": 137,
   "nativeCurrency": {
-    "name": "MATIC",
-    "symbol": "MATIC",
+    "name": "POL",
+    "symbol": "POL",
     "decimals": 18
   },
   "rpc": ["https://polygon-rpc.com/", "https://rpc-mainnet.matic.network", "https://matic-mainnet.chainstacklabs.com", "https://rpc-mainnet.maticvigil.com", "https://rpc-mainnet.matic.quiknode.pro", "https://matic-mainnet-full-rpc.bwarelabs.com", "https://polygon-bor-rpc.publicnode.com", "wss://polygon-bor-rpc.publicnode.com", "https://polygon.gateway.tenderly.co", "wss://polygon.gateway.tenderly.co", "https://polygon.drpc.org", "wss://polygon.drpc.org"],
@@ -2868,7 +2868,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-rpc01.swanchain.io"],
+  "rpc": ["https://mainnet-rpc.swanchain.org", "https://mainnet-rpc-01.swanchain.org", "https://mainnet-rpc-02.swanchain.org"],
   "faucets": [],
   "infoURL": "https://swanchain.io/"
 }, {
@@ -5316,6 +5316,19 @@
   "faucets": [],
   "infoURL": "https://oortech.com"
 }, {
+  "name": "Palm Smart Chain",
+  "chainId": 973,
+  "shortName": "PalmChain",
+  "networkId": 973,
+  "nativeCurrency": {
+    "name": "PALM",
+    "symbol": "PALM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.palmsmartchain.io"],
+  "faucets": [],
+  "infoURL": "https://palmsmartchain.io"
+}, {
   "name": "Nepal Blockchain Network",
   "chainId": 977,
   "shortName": "yeti",
@@ -7409,6 +7422,19 @@
   "faucets": [],
   "infoURL": "https://rubychain.io"
 }, {
+  "name": "HighOctane Subnet",
+  "chainId": 1853,
+  "shortName": "HighOctane",
+  "networkId": 1853,
+  "nativeCurrency": {
+    "name": "HighOctane",
+    "symbol": "HO",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/highoctane/mainnet/rpc", "wss://subnets.avax.network/highoctane/mainnet/ws"],
+  "faucets": [],
+  "infoURL": "https://subnets.avax.network/highoctane/details"
+}, {
   "name": "Teslafunds",
   "chainId": 1856,
   "shortName": "tsf",
@@ -8968,6 +8994,19 @@
   "rpc": ["https://coredata-mainnet.hybridchain.ai/", "https://rpc-mainnet.hybridchain.ai"],
   "faucets": ["https://faucet-testnet.hybridchain.ai"],
   "infoURL": "https://hybridchain.ai"
+}, {
+  "name": "6Degree of Outreach",
+  "chainId": 2477,
+  "shortName": "6do",
+  "networkId": 2477,
+  "nativeCurrency": {
+    "name": "6Degree Coin",
+    "symbol": "6DO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.6do.world"],
+  "faucets": [],
+  "infoURL": "https://6do.world"
 }, {
   "name": "Unicorn Ultra Nebulas Testnet",
   "chainId": 2484,
@@ -16080,7 +16119,7 @@
   "faucets": [],
   "infoURL": "https://slingshotdao.com"
 }, {
-  "name": "Zilliqa-2 EVM Devnet",
+  "name": "Zilliqa 2 EVM devnet",
   "chainId": 33469,
   "shortName": "zq2-devnet",
   "networkId": 33469,
@@ -16235,6 +16274,19 @@
   "rpc": ["https://mainnet.oho.ai"],
   "faucets": [],
   "infoURL": "https://oho.ai"
+}, {
+  "name": "DIV Chain",
+  "chainId": 40000,
+  "shortName": "divc",
+  "networkId": 40000,
+  "nativeCurrency": {
+    "name": "DIVC",
+    "symbol": "DIVC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.divchain.org"],
+  "faucets": [],
+  "infoURL": "https://www.divchain.org"
 }, {
   "name": "Aleph Zero EVM",
   "chainId": 41455,
@@ -16795,6 +16847,19 @@
   "faucets": [],
   "infoURL": "https://gton.capital"
 }, {
+  "name": "Erbie Mainnet",
+  "chainId": 50888,
+  "shortName": "Erbie",
+  "networkId": 50888,
+  "nativeCurrency": {
+    "name": "ERB",
+    "symbol": "ERB",
+    "decimals": 18
+  },
+  "rpc": ["https://api.erbie.io"],
+  "faucets": [],
+  "infoURL": "https://www.erbie.io"
+}, {
   "name": "Lumoz Testnet Alpha",
   "chainId": 51178,
   "shortName": "Lumoz-Testnet",
@@ -16885,6 +16950,19 @@
   "rpc": ["https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"],
   "faucets": [],
   "infoURL": "https://defikingdoms.com"
+}, {
+  "name": "OverProtocol Mainnet",
+  "chainId": 54176,
+  "shortName": "overprotocol",
+  "networkId": 54176,
+  "nativeCurrency": {
+    "name": "Over",
+    "symbol": "OVER",
+    "decimals": 18
+  },
+  "rpc": ["https://public.rpc.overprotocol.com"],
+  "faucets": [],
+  "infoURL": "https://docs.over.network"
 }, {
   "name": "Haqq Chain Testnet",
   "chainId": 54211,
@@ -19317,6 +19395,19 @@
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {
+  "name": "Zchains",
+  "chainId": 168168,
+  "shortName": "zchains",
+  "networkId": 168168,
+  "nativeCurrency": {
+    "name": "ZCD",
+    "symbol": "ZCD",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.zchains.com"],
+  "faucets": [],
+  "infoURL": "https://www.zchains.com/"
+}, {
   "name": "Fair Testnet",
   "chainId": 171000,
   "shortName": "fairt",
@@ -19537,6 +19628,19 @@
   "rpc": ["https://testnet-val.decimalchain.com/web3/"],
   "faucets": [],
   "infoURL": "https://decimalchain.com"
+}, {
+  "name": "DuckChain Testnet",
+  "chainId": 202105,
+  "shortName": "Duck-Chain-Testnet",
+  "networkId": 202105,
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.duckchain.io", "https://testnet-rpc-hk.duckchain.io"],
+  "faucets": [],
+  "infoURL": "https://duckchain.io"
 }, {
   "name": "X1 Devnet",
   "chainId": 202212,
@@ -20642,6 +20746,19 @@
   "rpc": ["https://mainnet-rpc.bescscan.io"],
   "faucets": [],
   "infoURL": "besceco.finance"
+}, {
+  "name": "OverProtocol Testnet",
+  "chainId": 541764,
+  "shortName": "overprotocol-testnet",
+  "networkId": 541764,
+  "nativeCurrency": {
+    "name": "Over",
+    "symbol": "OVER",
+    "decimals": 18
+  },
+  "rpc": ["https://wallet-dolphin.rpc.over.network"],
+  "faucets": [],
+  "infoURL": "https://docs.over.network"
 }, {
   "name": "One World Chain Testnet",
   "chainId": 552981,
